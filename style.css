@@ -1,0 +1,27 @@
+.heading{
+    color: deepskyblue;
+}
+
+body{
+    background-color: black;
+}
+
+.car_name{
+    color: blue;
+}
+
+.img{
+    align-items: center;
+}
+
+.heading3{
+    color: blue;
+}
+
+.list{
+    color: greenyellow;
+}
+
+p{
+    text-align: center;
+}
